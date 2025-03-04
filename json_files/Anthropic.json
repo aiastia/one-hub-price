@@ -1,0 +1,44 @@
+[
+  {
+    "model": "claude-instant-1.2",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 14
+  },
+  {
+    "model": "claude-2.0",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 14
+  },
+  {
+    "model": "claude-2.1",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 14
+  },
+  {
+    "model": "claude-3-opus-20240229",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 14
+  },
+  {
+    "model": "claude-3-sonnet-20240229",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 14
+  },
+  {
+    "model": "claude-3-haiku-20240307",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 14
+  }
+]

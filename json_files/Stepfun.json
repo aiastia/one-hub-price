@@ -1,0 +1,121 @@
+[
+  {
+    "model": "step-1-32k",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1121
+  },
+  {
+    "model": "step-1v-32k",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1121
+  },
+  {
+    "model": "step-1-8k",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1121
+  },
+  {
+    "model": "step-1-128k",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1121
+  },
+  {
+    "model": "step-1-256k",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1121
+  },
+  {
+    "model": "step-1v-8k",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1121
+  },
+  {
+    "model": "step-2-16k",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1121
+  },
+  {
+    "model": "step-1-flash",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1121
+  },
+  {
+    "model": "step-1x-medium",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1121
+  },
+  {
+    "model": "step-1.5v-mini",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1121
+  },
+  {
+    "model": "step-tts-mini",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1121
+  },
+  {
+    "model": "step-2-16k-202411",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1121
+  },
+  {
+    "model": "step-asr",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1121
+  },
+  {
+    "model": "step-1o-vision-32k",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1121
+  },
+  {
+    "model": "step-2-mini",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1121
+  },
+  {
+    "model": "step-2-16k-exp",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1121
+  },
+  {
+    "model": "step-1o-turbo-vision",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1121
+  }
+]

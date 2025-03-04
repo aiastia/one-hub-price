@@ -1,0 +1,9 @@
+[
+  {
+    "model": "deepseek-r1",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1124
+  }
+]

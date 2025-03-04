@@ -1,0 +1,16 @@
+[
+  {
+    "model": "deepseek-chat",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 28
+  },
+  {
+    "model": "deepseek-reasoner",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 28
+  }
+]

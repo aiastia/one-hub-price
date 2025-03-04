@@ -1,0 +1,30 @@
+[
+  {
+    "model": "SparkDesk-v1.1",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1123
+  },
+  {
+    "model": "SparkDesk-v3.1",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1123
+  },
+  {
+    "model": "SparkDesk-v3.5",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1123
+  },
+  {
+    "model": "SparkDesk-v4.0",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1123
+  }
+]

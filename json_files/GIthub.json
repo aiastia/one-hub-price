@@ -1,0 +1,44 @@
+[
+  {
+    "model": "gpt-4o",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1125
+  },
+  {
+    "model": "gpt-4o-mini",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1125
+  },
+  {
+    "model": "text-embedding-3-large",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1125
+  },
+  {
+    "model": "text-embedding-3-small",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1125
+  },
+  {
+    "model": "Cohere-command-r-plus",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1125
+  },
+  {
+    "model": "Cohere-command-r",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1125
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "model": "Baichuan2-Turbo",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 26
+  },
+  {
+    "model": "Baichuan2-Turbo-192k",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 26
+  },
+  {
+    "model": "Baichuan2-53B",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 26
+  },
+  {
+    "model": "Baichuan-Text-Embedding",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 26
+  }
+]

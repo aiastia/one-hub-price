@@ -1,0 +1,506 @@
+[
+  {
+    "model": "deepseek-v3",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "deepseek-r1-distill-llama-70b",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "deepseek-r1-distill-qwen-32b",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "deepseek-r1-distill-qwen-14b",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "deepseek-r1-distill-llama-8b",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "deepseek-r1-distill-qwen-1.5b",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "deepseek-r1-distill-qwen-7b",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "deepseek-r1",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen1.5-7b-chat",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen-vl-ocr-latest",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen-vl-ocr",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen-coder-plus-1106",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen-coder-plus",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen-coder-plus-latest",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen2.5-coder-3b-instruct",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen2.5-coder-0.5b-instruct",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen2.5-coder-14b-instruct",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen2.5-coder-32b-instruct",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen-coder-turbo-0919",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen2.5-0.5b-instruct",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen2.5-1.5b-instruct",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen2.5-3b-instruct",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen2.5-7b-instruct",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen2.5-14b-instruct",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen2.5-32b-instruct",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen2.5-72b-instruct",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen2.5-coder-7b-instruct",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen2.5-math-1.5b-instruct",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen2.5-math-7b-instruct",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen2.5-math-72b-instruct",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen-turbo-0919",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen-turbo-latest",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen-plus-0919",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen-plus-latest",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen-max-0919",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen-max-latest",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen-coder-turbo",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen-coder-turbo-latest",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen-math-turbo-0919",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen-math-turbo",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen-math-turbo-latest",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen-math-plus-0919",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen-math-plus",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen-math-plus-latest",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen2-1.5b-instruct",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen2-57b-a14b-instruct",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen2-72b-instruct",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen2-7b-instruct",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen2-0.5b-instruct",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen-long",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen-vl-max",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen-vl-plus",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen-max-0428",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen1.5-110b-chat",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen-72b-chat",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen-7b-chat",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen-1.8b-chat",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen-1.8b-longcontext-chat",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen1.5-0.5b-chat",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "codeqwen1.5-7b-chat",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen-14b-chat",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen1.5-1.8b-chat",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen1.5-32b-chat",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen1.5-72b-chat",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen-max-longcontext",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen-max-1201",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen1.5-14b-chat",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen-max",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen-max-0403",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen-max-0107",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen-turbo",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  },
+  {
+    "model": "qwen-plus",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 17
+  }
+]

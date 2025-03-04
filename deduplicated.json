@@ -1,0 +1,198 @@
+[
+  {
+    "model": "deepseek-ai/DeepSeek-R1-Distill-Llama-70B",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 2000
+  },
+  {
+    "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-14B",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 2000
+  },
+  {
+    "model": "deepseek-r1",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 2000
+  },
+  {
+    "model": "deepseek-r1-distill-llama-70b",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 2000
+  },
+  {
+    "model": "deepseek-r1-distill-qwen-32b",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 2000
+  },
+  {
+    "model": "deepseek-r1-distill-qwen-7b",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 2000
+  },
+  {
+    "model": "deepseek-v3",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 2000
+  },
+  {
+    "model": "gpt-4o",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 2000
+  },
+  {
+    "model": "gpt-4o-mini",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 2000
+  },
+  {
+    "model": "hunyuan-code",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 2000
+  },
+  {
+    "model": "hunyuan-functioncall",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 2000
+  },
+  {
+    "model": "hunyuan-large",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 2000
+  },
+  {
+    "model": "hunyuan-large-longcontext",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 2000
+  },
+  {
+    "model": "hunyuan-lite",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 2000
+  },
+  {
+    "model": "hunyuan-pro",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 2000
+  },
+  {
+    "model": "hunyuan-role",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 2000
+  },
+  {
+    "model": "hunyuan-standard",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 2000
+  },
+  {
+    "model": "hunyuan-standard-256k",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 2000
+  },
+  {
+    "model": "hunyuan-standard-32K",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 2000
+  },
+  {
+    "model": "hunyuan-turbo",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 2000
+  },
+  {
+    "model": "hunyuan-turbo-latest",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 2000
+  },
+  {
+    "model": "hunyuan-turbo-vision",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 2000
+  },
+  {
+    "model": "hunyuan-turbos-20250226",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 2000
+  },
+  {
+    "model": "hunyuan-turbos-latest",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 2000
+  },
+  {
+    "model": "hunyuan-vision",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 2000
+  },
+  {
+    "model": "stabilityai/stable-diffusion-xl-base-1.0",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 2000
+  },
+  {
+    "model": "text-embedding-3-large",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 2000
+  },
+  {
+    "model": "text-embedding-3-small",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 2000
+  }
+]

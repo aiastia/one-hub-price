@@ -1,0 +1,37 @@
+[
+  {
+    "model": "glm-3-turbo",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 16
+  },
+  {
+    "model": "glm-4",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 16
+  },
+  {
+    "model": "glm-4v",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 16
+  },
+  {
+    "model": "embedding-2",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 16
+  },
+  {
+    "model": "cogview-3",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 16
+  }
+]

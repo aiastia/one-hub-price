@@ -1,0 +1,142 @@
+[
+  {
+    "model": "distil-whisper-large-v3-en",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 31
+  },
+  {
+    "model": "whisper-large-v3",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 31
+  },
+  {
+    "model": "llama-3.1-8b-instant",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 31
+  },
+  {
+    "model": "deepseek-r1-distill-qwen-32b",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 31
+  },
+  {
+    "model": "gemma2-9b-it",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 31
+  },
+  {
+    "model": "llama-3.3-70b-specdec",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 31
+  },
+  {
+    "model": "llama-3.2-11b-vision-preview",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 31
+  },
+  {
+    "model": "qwen-2.5-32b",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 31
+  },
+  {
+    "model": "qwen-2.5-coder-32b",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 31
+  },
+  {
+    "model": "llama-3.2-90b-vision-preview",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 31
+  },
+  {
+    "model": "whisper-large-v3-turbo",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 31
+  },
+  {
+    "model": "llama-3.3-70b-versatile",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 31
+  },
+  {
+    "model": "mistral-saba-24b",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 31
+  },
+  {
+    "model": "llama-3.2-1b-preview",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 31
+  },
+  {
+    "model": "llama3-70b-8192",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 31
+  },
+  {
+    "model": "deepseek-r1-distill-llama-70b",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 31
+  },
+  {
+    "model": "mixtral-8x7b-32768",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 31
+  },
+  {
+    "model": "llama-3.2-3b-preview",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 31
+  },
+  {
+    "model": "llama3-8b-8192",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 31
+  },
+  {
+    "model": "llama-guard-3-8b",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 31
+  }
+]

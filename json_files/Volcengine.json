@@ -1,0 +1,58 @@
+[
+  {
+    "model": "deepseek-v3",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1122
+  },
+  {
+    "model": "deepseek-r1",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1122
+  },
+  {
+    "model": "deepseek-r1-distill-qwen-7b",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1122
+  },
+  {
+    "model": "deepseek-r1-distill-qwen-32b",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1122
+  },
+  {
+    "model": "doubao-1.5-pro-256k",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1122
+  },
+  {
+    "model": "doubao-1.5-vision-pro-32k",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1122
+  },
+  {
+    "model": "doubao-1.5-pro-32k",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1122
+  },
+  {
+    "model": "doubao-1.5-lite-32k",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1122
+  }
+]
