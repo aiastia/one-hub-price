@@ -16,8 +16,8 @@
   {
     "model": "gemini-1.5-pro-002",
     "type": "tokens",
-    "input": 1,
-    "output": 1,
+    "input": 1.75,
+    "output": 5.25,
     "channel_type": 25
   },
   {
@@ -44,8 +44,8 @@
   {
     "model": "gemini-1.5-flash-001-tuning",
     "type": "tokens",
-    "input": 1,
-    "output": 1,
+    "input": 0.0375,
+    "output": 0.15,
     "channel_type": 25
   },
   {
@@ -58,29 +58,29 @@
   {
     "model": "gemini-1.5-flash-002",
     "type": "tokens",
-    "input": 1,
-    "output": 1,
+    "input": 0.0375,
+    "output": 0.15,
     "channel_type": 25
   },
   {
     "model": "gemini-1.5-flash-8b",
     "type": "tokens",
-    "input": 1,
-    "output": 1,
+    "input": 0.0375,
+    "output": 0.15,
     "channel_type": 25
   },
   {
     "model": "gemini-1.5-flash-8b-001",
     "type": "tokens",
-    "input": 1,
-    "output": 1,
+    "input": 0.0375,
+    "output": 0.15,
     "channel_type": 25
   },
   {
     "model": "gemini-1.5-flash-8b-latest",
     "type": "tokens",
-    "input": 1,
-    "output": 1,
+    "input": 0.0375,
+    "output": 0.15,
     "channel_type": 25
   },
   {
@@ -93,8 +93,8 @@
   {
     "model": "gemini-1.5-flash-8b-exp-0924",
     "type": "tokens",
-    "input": 1,
-    "output": 1,
+    "input": 0.0375,
+    "output": 0.15,
     "channel_type": 25
   },
   {
@@ -170,22 +170,22 @@
   {
     "model": "gemini-2.0-flash-thinking-exp-01-21",
     "type": "tokens",
-    "input": 1,
-    "output": 1,
+    "input": 0.5,
+    "output": 0.2,
     "channel_type": 25
   },
   {
     "model": "gemini-2.0-flash-thinking-exp",
     "type": "tokens",
-    "input": 1,
-    "output": 1,
+    "input": 0.5,
+    "output": 0.2,
     "channel_type": 25
   },
   {
     "model": "gemini-2.0-flash-thinking-exp-1219",
     "type": "tokens",
-    "input": 1,
-    "output": 1,
+    "input": 0.5,
+    "output": 0.2,
     "channel_type": 25
   },
   {
