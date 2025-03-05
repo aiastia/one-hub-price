@@ -99,9 +99,9 @@
   },
   {
     "model": "llama3-70b-8192",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
+    "type": "times",
+    "input": 0,
+    "output": 0,
     "channel_type": 31
   },
   {
@@ -113,9 +113,9 @@
   },
   {
     "model": "mixtral-8x7b-32768",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
+    "type": "times",
+    "input": 0,
+    "output": 0,
     "channel_type": 31
   },
   {
@@ -127,9 +127,9 @@
   },
   {
     "model": "llama3-8b-8192",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
+    "type": "times",
+    "input": 0,
+    "output": 0,
     "channel_type": 31
   },
   {

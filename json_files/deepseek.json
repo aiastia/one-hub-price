@@ -2,8 +2,8 @@
   {
     "model": "deepseek-chat",
     "type": "tokens",
-    "input": 1,
-    "output": 1,
+    "input": 0.0714,
+    "output": 0.1429,
     "channel_type": 28
   },
   {

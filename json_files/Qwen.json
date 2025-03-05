@@ -345,22 +345,22 @@
   {
     "model": "qwen-long",
     "type": "tokens",
-    "input": 1,
-    "output": 1,
+    "input": 0.0357,
+    "output": 0.1429,
     "channel_type": 17
   },
   {
     "model": "qwen-vl-max",
     "type": "tokens",
-    "input": 1,
-    "output": 1,
+    "input": 1.4286,
+    "output": 1.4286,
     "channel_type": 17
   },
   {
     "model": "qwen-vl-plus",
     "type": "tokens",
-    "input": 1,
-    "output": 1,
+    "input": 0.5715,
+    "output": 0.5715,
     "channel_type": 17
   },
   {
@@ -450,8 +450,8 @@
   {
     "model": "qwen-max-longcontext",
     "type": "tokens",
-    "input": 1,
-    "output": 1,
+    "input": 2.8571,
+    "output": 8.5714,
     "channel_type": 17
   },
   {
@@ -471,8 +471,8 @@
   {
     "model": "qwen-max",
     "type": "tokens",
-    "input": 1,
-    "output": 1,
+    "input": 1.4286,
+    "output": 4.2857,
     "channel_type": 17
   },
   {
@@ -492,15 +492,15 @@
   {
     "model": "qwen-turbo",
     "type": "tokens",
-    "input": 1,
-    "output": 1,
+    "input": 0.0214,
+    "output": 0.0429,
     "channel_type": 17
   },
   {
     "model": "qwen-plus",
     "type": "tokens",
-    "input": 1,
-    "output": 1,
+    "input": 0.0571,
+    "output": 0.1429,
     "channel_type": 17
   }
 ]

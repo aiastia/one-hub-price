@@ -2,29 +2,29 @@
   {
     "model": "Baichuan2-Turbo",
     "type": "tokens",
-    "input": 1,
-    "output": 1,
+    "input": 0.5715,
+    "output": 0.5715,
     "channel_type": 26
   },
   {
     "model": "Baichuan2-Turbo-192k",
     "type": "tokens",
-    "input": 1,
-    "output": 1,
+    "input": 1.143,
+    "output": 1.143,
     "channel_type": 26
   },
   {
     "model": "Baichuan2-53B",
     "type": "tokens",
-    "input": 1,
-    "output": 1,
+    "input": 1.4286,
+    "output": 1.4286,
     "channel_type": 26
   },
   {
     "model": "Baichuan-Text-Embedding",
     "type": "tokens",
-    "input": 1,
-    "output": 1,
+    "input": 0.0357,
+    "output": 0.0357,
     "channel_type": 26
   }
 ]
