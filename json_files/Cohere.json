@@ -23,8 +23,8 @@
   {
     "model": "command-r7b-12-2024",
     "type": "tokens",
-    "input": 1,
-    "output": 1,
+    "input": 0.02,
+    "output": 0.75,
     "channel_type": 36
   },
   {
@@ -44,8 +44,8 @@
   {
     "model": "command-r7b-arabic-02-2025",
     "type": "tokens",
-    "input": 1,
-    "output": 1,
+    "input": 0.02,
+    "output": 0.75,
     "channel_type": 36
   },
   {
@@ -79,15 +79,15 @@
   {
     "model": "command-r-08-2024",
     "type": "tokens",
-    "input": 1,
-    "output": 1,
+    "input": 0.75,
+    "output": 0.3,
     "channel_type": 36
   },
   {
     "model": "command-r-plus-08-2024",
     "type": "tokens",
-    "input": 1,
-    "output": 1,
+    "input": 1.25,
+    "output": 5,
     "channel_type": 36
   },
   {
