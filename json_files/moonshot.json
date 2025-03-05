@@ -9,15 +9,15 @@
   {
     "model": "moonshot-v1-32k-vision-preview",
     "type": "tokens",
-    "input": 1,
-    "output": 1,
+    "input": 2,
+    "output": 2,
     "channel_type": 29
   },
   {
     "model": "moonshot-v1-128k-vision-preview",
     "type": "tokens",
-    "input": 1,
-    "output": 1,
+    "input": 10,
+    "output": 10,
     "channel_type": 29
   },
   {
@@ -52,7 +52,7 @@
     "model": "kimi-latest",
     "type": "tokens",
     "input": 1,
-    "output": 1,
+    "output": 2,
     "channel_type": 29
   }
 ]
