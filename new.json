@@ -1372,146 +1372,6 @@
     "output": 0
   },
   {
-    "model": "@cf/deepseek-ai/deepseek-r1-distill-qwen-32b",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 35
-  },
-  {
-    "model": "@cf/deepseek-ai/deepseek-math-7b-instruct",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 35
-  },
-  {
-    "model": "@cf/meta/llama-2-7b-chat-fp16",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 35
-  },
-  {
-    "model": "rerank-v3.5",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 36
-  },
-  {
-    "model": "rerank-english-v3.0",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 36
-  },
-  {
-    "model": "command-r7b-12-2024",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 36
-  },
-  {
-    "model": "rerank-multilingual-v2.0",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 36
-  },
-  {
-    "model": "command-r7b-arabic-02-2025",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 36
-  },
-  {
-    "model": "command-light-nightly",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 36
-  },
-  {
-    "model": "rerank-english-v2.0",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 36
-  },
-  {
-    "model": "c4ai-aya-expanse-32b",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 36
-  },
-  {
-    "model": "command",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 36
-  },
-  {
-    "model": "command-r-08-2024",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 36
-  },
-  {
-    "model": "command-r-plus-08-2024",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 36
-  },
-  {
-    "model": "c4ai-aya-expanse-8b",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 36
-  },
-  {
-    "model": "command-light",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 36
-  },
-  {
-    "model": "rerank-multilingual-v3.0",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 36
-  },
-  {
-    "model": "deepseek-reasoner",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 28
-  },
-  {
-    "model": "Cohere-command-r-plus",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 1125
-  },
-  {
-    "model": "Cohere-command-r",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 1125
-  },
-  {
     "model": "gemini-1.5-pro-002",
     "type": "tokens",
     "input": 1,
@@ -1659,32 +1519,74 @@
     "channel_type": 25
   },
   {
-    "model": "grok-2-1212",
+    "model": "@cf/deepseek-ai/deepseek-r1-distill-qwen-32b",
     "type": "tokens",
     "input": 1,
     "output": 1,
-    "channel_type": 1120
+    "channel_type": 35
   },
   {
-    "model": "grok-2-vision-1212",
+    "model": "@cf/deepseek-ai/deepseek-math-7b-instruct",
     "type": "tokens",
     "input": 1,
     "output": 1,
-    "channel_type": 1120
+    "channel_type": 35
   },
   {
-    "model": "grok-beta",
+    "model": "@cf/meta/llama-2-7b-chat-fp16",
     "type": "tokens",
     "input": 1,
     "output": 1,
-    "channel_type": 1120
+    "channel_type": 35
   },
   {
-    "model": "grok-vision-beta",
+    "model": "google/gemma-2-27b-it",
     "type": "tokens",
     "input": 1,
     "output": 1,
-    "channel_type": 1120
+    "channel_type": 1126
+  },
+  {
+    "model": "meta-llama/Llama-3-70b-chat-hf",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1126
+  },
+  {
+    "model": "moonshot-v1-8k-vision-preview",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 29
+  },
+  {
+    "model": "moonshot-v1-32k-vision-preview",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 29
+  },
+  {
+    "model": "moonshot-v1-128k-vision-preview",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 29
+  },
+  {
+    "model": "moonshot-v1-auto",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 29
+  },
+  {
+    "model": "kimi-latest",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 29
   },
   {
     "model": "distil-whisper-large-v3-en",
@@ -1792,123 +1694,144 @@
     "channel_type": 31
   },
   {
-    "model": "moonshot-v1-8k-vision-preview",
+    "model": "Cohere-command-r-plus",
     "type": "tokens",
     "input": 1,
     "output": 1,
-    "channel_type": 29
+    "channel_type": 1125
   },
   {
-    "model": "moonshot-v1-32k-vision-preview",
+    "model": "Cohere-command-r",
     "type": "tokens",
     "input": 1,
     "output": 1,
-    "channel_type": 29
+    "channel_type": 1125
   },
   {
-    "model": "moonshot-v1-128k-vision-preview",
+    "model": "deepseek-reasoner",
     "type": "tokens",
     "input": 1,
     "output": 1,
-    "channel_type": 29
+    "channel_type": 28
   },
   {
-    "model": "moonshot-v1-auto",
+    "model": "step-1-32k",
     "type": "tokens",
     "input": 1,
     "output": 1,
-    "channel_type": 29
+    "channel_type": 1121
   },
   {
-    "model": "kimi-latest",
+    "model": "step-1v-32k",
     "type": "tokens",
     "input": 1,
     "output": 1,
-    "channel_type": 29
+    "channel_type": 1121
   },
   {
-    "model": "gpt-4.5-preview",
+    "model": "step-1-8k",
     "type": "tokens",
     "input": 1,
     "output": 1,
-    "channel_type": 1
+    "channel_type": 1121
   },
   {
-    "model": "omni-moderation-2024-09-26",
+    "model": "step-1-128k",
     "type": "tokens",
     "input": 1,
     "output": 1,
-    "channel_type": 1
+    "channel_type": 1121
   },
   {
-    "model": "gpt-4.5-preview-2025-02-27",
+    "model": "step-1-256k",
     "type": "tokens",
     "input": 1,
     "output": 1,
-    "channel_type": 1
+    "channel_type": 1121
   },
   {
-    "model": "gpt-4o-mini-audio-preview-2024-12-17",
+    "model": "step-1v-8k",
     "type": "tokens",
     "input": 1,
     "output": 1,
-    "channel_type": 1
+    "channel_type": 1121
   },
   {
-    "model": "gpt-4o-mini-realtime-preview-2024-12-17",
+    "model": "step-2-16k",
     "type": "tokens",
     "input": 1,
     "output": 1,
-    "channel_type": 1
+    "channel_type": 1121
   },
   {
-    "model": "gpt-4o-mini-realtime-preview",
+    "model": "step-1-flash",
     "type": "tokens",
     "input": 1,
     "output": 1,
-    "channel_type": 1
+    "channel_type": 1121
   },
   {
-    "model": "gpt-4o-mini-audio-preview",
+    "model": "step-1x-medium",
     "type": "tokens",
     "input": 1,
     "output": 1,
-    "channel_type": 1
+    "channel_type": 1121
   },
   {
-    "model": "gpt-4o-audio-preview-2024-12-17",
+    "model": "step-1.5v-mini",
     "type": "tokens",
     "input": 1,
     "output": 1,
-    "channel_type": 1
+    "channel_type": 1121
   },
   {
-    "model": "gpt-4o-2024-11-20",
+    "model": "step-tts-mini",
     "type": "tokens",
     "input": 1,
     "output": 1,
-    "channel_type": 1
+    "channel_type": 1121
   },
   {
-    "model": "gpt-3.5-turbo-instruct-0914",
+    "model": "step-2-16k-202411",
     "type": "tokens",
     "input": 1,
     "output": 1,
-    "channel_type": 1
+    "channel_type": 1121
   },
   {
-    "model": "gpt-4o-realtime-preview-2024-12-17",
+    "model": "step-asr",
     "type": "tokens",
     "input": 1,
     "output": 1,
-    "channel_type": 1
+    "channel_type": 1121
   },
   {
-    "model": "omni-moderation-latest",
+    "model": "step-1o-vision-32k",
     "type": "tokens",
     "input": 1,
     "output": 1,
-    "channel_type": 1
+    "channel_type": 1121
+  },
+  {
+    "model": "step-2-mini",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1121
+  },
+  {
+    "model": "step-2-16k-exp",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1121
+  },
+  {
+    "model": "step-1o-turbo-vision",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1121
   },
   {
     "model": "deepseek-r1-distill-qwen-14b",
@@ -2863,137 +2786,88 @@
     "channel_type": 45
   },
   {
-    "model": "step-1-32k",
+    "model": "gpt-4.5-preview",
     "type": "tokens",
     "input": 1,
     "output": 1,
-    "channel_type": 1121
+    "channel_type": 1
   },
   {
-    "model": "step-1v-32k",
+    "model": "omni-moderation-2024-09-26",
     "type": "tokens",
     "input": 1,
     "output": 1,
-    "channel_type": 1121
+    "channel_type": 1
   },
   {
-    "model": "step-1-8k",
+    "model": "gpt-4.5-preview-2025-02-27",
     "type": "tokens",
     "input": 1,
     "output": 1,
-    "channel_type": 1121
+    "channel_type": 1
   },
   {
-    "model": "step-1-128k",
+    "model": "gpt-4o-mini-audio-preview-2024-12-17",
     "type": "tokens",
     "input": 1,
     "output": 1,
-    "channel_type": 1121
+    "channel_type": 1
   },
   {
-    "model": "step-1-256k",
+    "model": "gpt-4o-mini-realtime-preview-2024-12-17",
     "type": "tokens",
     "input": 1,
     "output": 1,
-    "channel_type": 1121
+    "channel_type": 1
   },
   {
-    "model": "step-1v-8k",
+    "model": "gpt-4o-mini-realtime-preview",
     "type": "tokens",
     "input": 1,
     "output": 1,
-    "channel_type": 1121
+    "channel_type": 1
   },
   {
-    "model": "step-2-16k",
+    "model": "gpt-4o-mini-audio-preview",
     "type": "tokens",
     "input": 1,
     "output": 1,
-    "channel_type": 1121
+    "channel_type": 1
   },
   {
-    "model": "step-1-flash",
+    "model": "gpt-4o-audio-preview-2024-12-17",
     "type": "tokens",
     "input": 1,
     "output": 1,
-    "channel_type": 1121
+    "channel_type": 1
   },
   {
-    "model": "step-1x-medium",
+    "model": "gpt-4o-2024-11-20",
     "type": "tokens",
     "input": 1,
     "output": 1,
-    "channel_type": 1121
+    "channel_type": 1
   },
   {
-    "model": "step-1.5v-mini",
+    "model": "gpt-3.5-turbo-instruct-0914",
     "type": "tokens",
     "input": 1,
     "output": 1,
-    "channel_type": 1121
+    "channel_type": 1
   },
   {
-    "model": "step-tts-mini",
+    "model": "gpt-4o-realtime-preview-2024-12-17",
     "type": "tokens",
     "input": 1,
     "output": 1,
-    "channel_type": 1121
+    "channel_type": 1
   },
   {
-    "model": "step-2-16k-202411",
+    "model": "omni-moderation-latest",
     "type": "tokens",
     "input": 1,
     "output": 1,
-    "channel_type": 1121
-  },
-  {
-    "model": "step-asr",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 1121
-  },
-  {
-    "model": "step-1o-vision-32k",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 1121
-  },
-  {
-    "model": "step-2-mini",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 1121
-  },
-  {
-    "model": "step-2-16k-exp",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 1121
-  },
-  {
-    "model": "step-1o-turbo-vision",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 1121
-  },
-  {
-    "model": "google/gemma-2-27b-it",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 1126
-  },
-  {
-    "model": "meta-llama/Llama-3-70b-chat-hf",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 1126
+    "channel_type": 1
   },
   {
     "model": "doubao-1.5-pro-256k",
@@ -3022,6 +2896,132 @@
     "input": 1,
     "output": 1,
     "channel_type": 1122
+  },
+  {
+    "model": "rerank-v3.5",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 36
+  },
+  {
+    "model": "rerank-english-v3.0",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 36
+  },
+  {
+    "model": "command-r7b-12-2024",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 36
+  },
+  {
+    "model": "rerank-multilingual-v2.0",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 36
+  },
+  {
+    "model": "command-r7b-arabic-02-2025",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 36
+  },
+  {
+    "model": "command-light-nightly",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 36
+  },
+  {
+    "model": "rerank-english-v2.0",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 36
+  },
+  {
+    "model": "c4ai-aya-expanse-32b",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 36
+  },
+  {
+    "model": "command",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 36
+  },
+  {
+    "model": "command-r-08-2024",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 36
+  },
+  {
+    "model": "command-r-plus-08-2024",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 36
+  },
+  {
+    "model": "c4ai-aya-expanse-8b",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 36
+  },
+  {
+    "model": "command-light",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 36
+  },
+  {
+    "model": "rerank-multilingual-v3.0",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 36
+  },
+  {
+    "model": "grok-2-1212",
+    "type": "tokens",
+    "input": 1,
+    "output": 5,
+    "channel_type": 1120
+  },
+  {
+    "model": "grok-2-vision-1212",
+    "type": "tokens",
+    "input": 1,
+    "output": 5,
+    "channel_type": 1120
+  },
+  {
+    "model": "grok-beta",
+    "type": "tokens",
+    "input": 2.5,
+    "output": 7.5,
+    "channel_type": 1120
+  },
+  {
+    "model": "grok-vision-beta",
+    "type": "tokens",
+    "input": 2.5,
+    "output": 7.5,
+    "channel_type": 1120
   },
   {
     "model": "deepseek-ai/DeepSeek-R1-Distill-Llama-70B",
