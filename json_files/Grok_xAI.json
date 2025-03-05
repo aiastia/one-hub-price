@@ -3,28 +3,28 @@
     "model": "grok-2-1212",
     "type": "tokens",
     "input": 1,
-    "output": 1,
+    "output": 5,
     "channel_type": 1120
   },
   {
     "model": "grok-2-vision-1212",
     "type": "tokens",
     "input": 1,
-    "output": 1,
+    "output": 5,
     "channel_type": 1120
   },
   {
     "model": "grok-beta",
     "type": "tokens",
-    "input": 1,
-    "output": 1,
+    "input": 2.5,
+    "output": 7.5,
     "channel_type": 1120
   },
   {
     "model": "grok-vision-beta",
     "type": "tokens",
-    "input": 1,
-    "output": 1,
+    "input": 2.5,
+    "output": 7.5,
     "channel_type": 1120
   }
 ]
