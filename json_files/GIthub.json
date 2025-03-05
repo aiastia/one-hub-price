@@ -30,15 +30,15 @@
   {
     "model": "Cohere-command-r-plus",
     "type": "tokens",
-    "input": 1,
-    "output": 1,
+    "input": 1.25,
+    "output": 5,
     "channel_type": 1125
   },
   {
     "model": "Cohere-command-r",
     "type": "tokens",
-    "input": 1,
-    "output": 1,
+    "input": 0.75,
+    "output": 0.3,
     "channel_type": 1125
   }
 ]
