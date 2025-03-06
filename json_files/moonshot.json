@@ -1,23 +1,9 @@
 [
   {
-    "model": "moonshot-v1-8k-vision-preview",
+    "model": "kimi-latest",
     "type": "tokens",
     "input": 1,
-    "output": 1,
-    "channel_type": 29
-  },
-  {
-    "model": "moonshot-v1-32k-vision-preview",
-    "type": "tokens",
-    "input": 2,
     "output": 2,
-    "channel_type": 29
-  },
-  {
-    "model": "moonshot-v1-128k-vision-preview",
-    "type": "tokens",
-    "input": 10,
-    "output": 10,
     "channel_type": 29
   },
   {
@@ -28,10 +14,24 @@
     "channel_type": 29
   },
   {
+    "model": "moonshot-v1-128k-vision-preview",
+    "type": "tokens",
+    "input": 10,
+    "output": 10,
+    "channel_type": 29
+  },
+  {
     "model": "moonshot-v1-32k",
     "type": "tokens",
     "input": 1.7143,
     "output": 1.7143,
+    "channel_type": 29
+  },
+  {
+    "model": "moonshot-v1-32k-vision-preview",
+    "type": "tokens",
+    "input": 2,
+    "output": 2,
     "channel_type": 29
   },
   {
@@ -42,17 +42,17 @@
     "channel_type": 29
   },
   {
-    "model": "moonshot-v1-auto",
+    "model": "moonshot-v1-8k-vision-preview",
     "type": "tokens",
     "input": 1,
     "output": 1,
     "channel_type": 29
   },
   {
-    "model": "kimi-latest",
+    "model": "moonshot-v1-auto",
     "type": "tokens",
     "input": 1,
-    "output": 2,
+    "output": 1,
     "channel_type": 29
   }
 ]

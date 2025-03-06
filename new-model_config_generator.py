@@ -91,7 +91,7 @@ def read_all_models(file_path):
 
 def generate_json_for_channel(channel_type, model_list):
     """
-    生成或更新JSON文件，保留旧条目并添加新模型
+    生成或更新JSON文件，保留旧条目并添加新模型，并按 model 排序
     """
     # 准备新数据条目
     params = FIXED_PARAMS.copy()
@@ -122,16 +122,17 @@ def generate_json_for_channel(channel_type, model_list):
     # 筛选需要添加的新模型
     new_entries_to_add = [entry for entry in new_data if entry["model"] not in existing_models]
     
-    # 合并数据
-    merged_data = existing_data + new_entries_to_add
+    # 合并数据并按 model 字段排序
+    merged_data = sorted(existing_data + new_entries_to_add, key=lambda x: x["model"])
     
     # 写入文件
     try:
         with open(output_path, "w", encoding="utf-8") as f:
             json.dump(merged_data, f, indent=2, ensure_ascii=False)
-        print(f"成功更新文件：{output_path}")
+        print(f"成功更新文件（已排序）：{output_path}")
     except Exception as e:
         print(f"保存文件失败：{e}")
+
 
 def generate_all_json():
     models_dict = read_all_models(MODELS_FILE)

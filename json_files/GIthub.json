@@ -1,5 +1,19 @@
 [
   {
+    "model": "Cohere-command-r",
+    "type": "tokens",
+    "input": 0.75,
+    "output": 0.3,
+    "channel_type": 1125
+  },
+  {
+    "model": "Cohere-command-r-plus",
+    "type": "tokens",
+    "input": 1.25,
+    "output": 5,
+    "channel_type": 1125
+  },
+  {
     "model": "gpt-4o",
     "type": "tokens",
     "input": 2.5,
@@ -25,20 +39,6 @@
     "type": "tokens",
     "input": 0.01,
     "output": 0.01,
-    "channel_type": 1125
-  },
-  {
-    "model": "Cohere-command-r-plus",
-    "type": "tokens",
-    "input": 1.25,
-    "output": 5,
-    "channel_type": 1125
-  },
-  {
-    "model": "Cohere-command-r",
-    "type": "tokens",
-    "input": 0.75,
-    "output": 0.3,
     "channel_type": 1125
   }
 ]

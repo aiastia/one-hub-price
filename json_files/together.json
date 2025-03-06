@@ -1,9 +1,9 @@
 [
   {
-    "model": "google/gemma-2-27b-it",
+    "model": "deepseek-ai/DeepSeek-R1-Distill-Llama-70B",
     "type": "tokens",
-    "input": 0.4,
-    "output": 0.4,
+    "input": 1,
+    "output": 1,
     "channel_type": 1126
   },
   {
@@ -11,6 +11,13 @@
     "type": "tokens",
     "input": 0.8,
     "output": 0.8,
+    "channel_type": 1126
+  },
+  {
+    "model": "google/gemma-2-27b-it",
+    "type": "tokens",
+    "input": 0.4,
+    "output": 0.4,
     "channel_type": 1126
   },
   {
@@ -25,13 +32,6 @@
     "type": "tokens",
     "input": 0,
     "output": 0,
-    "channel_type": 1126
-  },
-  {
-    "model": "deepseek-ai/DeepSeek-R1-Distill-Llama-70B",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
     "channel_type": 1126
   }
 ]

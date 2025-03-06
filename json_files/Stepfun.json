@@ -1,26 +1,5 @@
 [
   {
-    "model": "step-1-32k",
-    "type": "tokens",
-    "input": 1.1,
-    "output": 1.5,
-    "channel_type": 1121
-  },
-  {
-    "model": "step-1v-32k",
-    "type": "tokens",
-    "input": 1.1,
-    "output": 1.5,
-    "channel_type": 1121
-  },
-  {
-    "model": "step-1-8k",
-    "type": "tokens",
-    "input": 0.36,
-    "output": 1.4,
-    "channel_type": 1121
-  },
-  {
     "model": "step-1-128k",
     "type": "tokens",
     "input": 2.5,
@@ -35,28 +14,21 @@
     "channel_type": 1121
   },
   {
-    "model": "step-1v-8k",
+    "model": "step-1-32k",
     "type": "tokens",
-    "input": 0.35,
-    "output": 1.4,
-    "channel_type": 1121
-  },
-  {
-    "model": "step-2-16k",
-    "type": "tokens",
-    "input": 1,
+    "input": 1.1,
     "output": 1.5,
     "channel_type": 1121
   },
   {
-    "model": "step-1-flash",
+    "model": "step-1-8k",
     "type": "tokens",
-    "input": 1,
-    "output": 1,
+    "input": 0.36,
+    "output": 1.4,
     "channel_type": 1121
   },
   {
-    "model": "step-1x-medium",
+    "model": "step-1-flash",
     "type": "tokens",
     "input": 1,
     "output": 1,
@@ -70,24 +42,10 @@
     "channel_type": 1121
   },
   {
-    "model": "step-tts-mini",
-    "type": "times",
-    "input": 1,
-    "output": 1,
-    "channel_type": 1121
-  },
-  {
-    "model": "step-2-16k-202411",
+    "model": "step-1o-turbo-vision",
     "type": "tokens",
-    "input": 4,
-    "output": 9,
-    "channel_type": 1121
-  },
-  {
-    "model": "step-asr",
-    "type": "times",
-    "input": 1,
-    "output": 2,
+    "input": 0.35,
+    "output": 1,
     "channel_type": 1121
   },
   {
@@ -98,10 +56,38 @@
     "channel_type": 1121
   },
   {
-    "model": "step-2-mini",
+    "model": "step-1v-32k",
     "type": "tokens",
-    "input": 0.07,
-    "output": 0.14,
+    "input": 1.1,
+    "output": 1.5,
+    "channel_type": 1121
+  },
+  {
+    "model": "step-1v-8k",
+    "type": "tokens",
+    "input": 0.35,
+    "output": 1.4,
+    "channel_type": 1121
+  },
+  {
+    "model": "step-1x-medium",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1121
+  },
+  {
+    "model": "step-2-16k",
+    "type": "tokens",
+    "input": 1,
+    "output": 1.5,
+    "channel_type": 1121
+  },
+  {
+    "model": "step-2-16k-202411",
+    "type": "tokens",
+    "input": 4,
+    "output": 9,
     "channel_type": 1121
   },
   {
@@ -112,9 +98,23 @@
     "channel_type": 1121
   },
   {
-    "model": "step-1o-turbo-vision",
+    "model": "step-2-mini",
     "type": "tokens",
-    "input": 0.35,
+    "input": 0.07,
+    "output": 0.14,
+    "channel_type": 1121
+  },
+  {
+    "model": "step-asr",
+    "type": "times",
+    "input": 1,
+    "output": 2,
+    "channel_type": 1121
+  },
+  {
+    "model": "step-tts-mini",
+    "type": "times",
+    "input": 1,
     "output": 1,
     "channel_type": 1121
   }

@@ -1,54 +1,5 @@
 [
   {
-    "model": "hunyuan-pro",
-    "type": "tokens",
-    "input": 2.1429,
-    "output": 7.1429,
-    "channel_type": 40
-  },
-  {
-    "model": "hunyuan-vision",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 40
-  },
-  {
-    "model": "hunyuan-lite",
-    "type": "tokens",
-    "input": 0,
-    "output": 0,
-    "channel_type": 40
-  },
-  {
-    "model": "hunyuan-standard-32K",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 40
-  },
-  {
-    "model": "hunyuan-standard-256k",
-    "type": "tokens",
-    "input": 1.0714,
-    "output": 4.2857,
-    "channel_type": 40
-  },
-  {
-    "model": "hunyuan-standard",
-    "type": "tokens",
-    "input": 0.3214,
-    "output": 0.3571,
-    "channel_type": 40
-  },
-  {
-    "model": "hunyuan-functioncall",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 40
-  },
-  {
     "model": "hunyuan-code",
     "type": "tokens",
     "input": 1,
@@ -56,28 +7,7 @@
     "channel_type": 40
   },
   {
-    "model": "hunyuan-role",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 40
-  },
-  {
-    "model": "hunyuan-turbo-vision",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 40
-  },
-  {
-    "model": "hunyuan-turbo-latest",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 40
-  },
-  {
-    "model": "hunyuan-turbo",
+    "model": "hunyuan-functioncall",
     "type": "tokens",
     "input": 1,
     "output": 1,
@@ -98,7 +28,63 @@
     "channel_type": 40
   },
   {
-    "model": "hunyuan-turbos-latest",
+    "model": "hunyuan-lite",
+    "type": "tokens",
+    "input": 0,
+    "output": 0,
+    "channel_type": 40
+  },
+  {
+    "model": "hunyuan-pro",
+    "type": "tokens",
+    "input": 2.1429,
+    "output": 7.1429,
+    "channel_type": 40
+  },
+  {
+    "model": "hunyuan-role",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 40
+  },
+  {
+    "model": "hunyuan-standard",
+    "type": "tokens",
+    "input": 0.3214,
+    "output": 0.3571,
+    "channel_type": 40
+  },
+  {
+    "model": "hunyuan-standard-256k",
+    "type": "tokens",
+    "input": 1.0714,
+    "output": 4.2857,
+    "channel_type": 40
+  },
+  {
+    "model": "hunyuan-standard-32K",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 40
+  },
+  {
+    "model": "hunyuan-turbo",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 40
+  },
+  {
+    "model": "hunyuan-turbo-latest",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 40
+  },
+  {
+    "model": "hunyuan-turbo-vision",
     "type": "tokens",
     "input": 1,
     "output": 1,
@@ -106,6 +92,20 @@
   },
   {
     "model": "hunyuan-turbos-20250226",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 40
+  },
+  {
+    "model": "hunyuan-turbos-latest",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 40
+  },
+  {
+    "model": "hunyuan-vision",
     "type": "tokens",
     "input": 1,
     "output": 1,

@@ -1,69 +1,13 @@
 [
   {
-    "model": "rerank-v3.5",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 36
-  },
-  {
-    "model": "rerank-english-v3.0",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 36
-  },
-  {
-    "model": "command-r",
-    "type": "tokens",
-    "input": 0.25,
-    "output": 0.75,
-    "channel_type": 36
-  },
-  {
-    "model": "command-r7b-12-2024",
-    "type": "tokens",
-    "input": 0.02,
-    "output": 0.75,
-    "channel_type": 36
-  },
-  {
-    "model": "command-r-plus",
-    "type": "tokens",
-    "input": 1.5,
-    "output": 7.5,
-    "channel_type": 36
-  },
-  {
-    "model": "rerank-multilingual-v2.0",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 36
-  },
-  {
-    "model": "command-r7b-arabic-02-2025",
-    "type": "tokens",
-    "input": 0.02,
-    "output": 0.75,
-    "channel_type": 36
-  },
-  {
-    "model": "command-light-nightly",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 36
-  },
-  {
-    "model": "rerank-english-v2.0",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 36
-  },
-  {
     "model": "c4ai-aya-expanse-32b",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 36
+  },
+  {
+    "model": "c4ai-aya-expanse-8b",
     "type": "tokens",
     "input": 1,
     "output": 1,
@@ -77,10 +21,38 @@
     "channel_type": 36
   },
   {
+    "model": "command-light",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 36
+  },
+  {
+    "model": "command-light-nightly",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 36
+  },
+  {
+    "model": "command-r",
+    "type": "tokens",
+    "input": 0.25,
+    "output": 0.75,
+    "channel_type": 36
+  },
+  {
     "model": "command-r-08-2024",
     "type": "tokens",
     "input": 0.75,
     "output": 0.3,
+    "channel_type": 36
+  },
+  {
+    "model": "command-r-plus",
+    "type": "tokens",
+    "input": 1.5,
+    "output": 7.5,
     "channel_type": 36
   },
   {
@@ -91,14 +63,35 @@
     "channel_type": 36
   },
   {
-    "model": "c4ai-aya-expanse-8b",
+    "model": "command-r7b-12-2024",
+    "type": "tokens",
+    "input": 0.02,
+    "output": 0.75,
+    "channel_type": 36
+  },
+  {
+    "model": "command-r7b-arabic-02-2025",
+    "type": "tokens",
+    "input": 0.02,
+    "output": 0.75,
+    "channel_type": 36
+  },
+  {
+    "model": "rerank-english-v2.0",
     "type": "tokens",
     "input": 1,
     "output": 1,
     "channel_type": 36
   },
   {
-    "model": "command-light",
+    "model": "rerank-english-v3.0",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 36
+  },
+  {
+    "model": "rerank-multilingual-v2.0",
     "type": "tokens",
     "input": 1,
     "output": 1,
@@ -106,6 +99,13 @@
   },
   {
     "model": "rerank-multilingual-v3.0",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 36
+  },
+  {
+    "model": "rerank-v3.5",
     "type": "tokens",
     "input": 1,
     "output": 1,
