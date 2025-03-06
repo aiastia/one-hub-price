@@ -48,7 +48,7 @@ CHANNEL_TYPE_MAPPING = {
     1120: "Grok_xAI",
     1121: "Stepfun",
     1122: "Volcengine",
-    1123: "Spark",
+    1123: "0000000000000000",
     1124: "Azure",
     1125: "GIthub",
     1126: "together"
@@ -99,19 +99,25 @@ def read_all_models(file_path):
 def generate_json_for_channel(channel_type, model_list):
     """
     根据指定 channel_type 和模型列表生成 JSON 文件，
-    JSON 中每个项包含模型及固定参数（并自动附加 channel_type）
+    JSON 中每个项包含模型及固定参数（并自动附加 channel_type）。
+    生成的 JSON 按 model 名称排序。
     """
     params = FIXED_PARAMS.copy()
     params["channel_type"] = channel_type
 
-    data = [{"model": model, **params} for model in model_list]
+    # 生成数据，并按 model 名称排序
+    data = sorted(
+        [{"model": model, **params} for model in model_list], 
+        key=lambda x: x["model"]
+    )
+
     output_filename = f"{CHANNEL_TYPE_MAPPING.get(channel_type, channel_type)}.json"
     output_path = os.path.join(OUTPUT_DIR, output_filename)
     
     try:
         with open(output_path, "w", encoding="utf-8") as f:
             json.dump(data, f, indent=2, ensure_ascii=False)
-        print(f"成功生成文件：{output_path}")
+        print(f"成功生成文件（已排序）：{output_path}")
     except Exception as e:
         print(f"文件保存失败：{e}")
 

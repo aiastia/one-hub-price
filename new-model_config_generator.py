@@ -47,7 +47,7 @@ CHANNEL_TYPE_MAPPING = {
     1120: "Grok_xAI",
     1121: "Stepfun",
     1122: "Volcengine",
-    1123: "Spark",
+    1123: "0000000000000000000",
     1124: "Azure",
     1125: "GIthub",
     1126: "together"
