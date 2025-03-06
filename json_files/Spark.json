@@ -4,27 +4,27 @@
     "type": "tokens",
     "input": 0,
     "output": 0,
-    "channel_type": 1123
+    "channel_type": 18
   },
   {
     "model": "SparkDesk-v3.1",
     "type": "tokens",
     "input": 2.1429,
     "output": 2.1429,
-    "channel_type": 1123
+    "channel_type": 18
   },
   {
     "model": "SparkDesk-v3.5",
     "type": "tokens",
     "input": 2.1429,
     "output": 2.1429,
-    "channel_type": 1123
+    "channel_type": 18
   },
   {
     "model": "SparkDesk-v4.0",
     "type": "tokens",
     "input": 7.1429,
     "output": 7.1429,
-    "channel_type": 1123
+    "channel_type": 18
   }
 ]
