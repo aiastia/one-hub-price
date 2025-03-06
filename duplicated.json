@@ -16,8 +16,8 @@
   {
     "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-14B",
     "type": "tokens",
-    "input": 1,
-    "output": 1,
+    "input": 0.8,
+    "output": 0.8,
     "channel_type": 1126
   },
   {
@@ -65,8 +65,8 @@
   {
     "model": "deepseek-r1-distill-qwen-32b",
     "type": "tokens",
-    "input": 1,
-    "output": 1,
+    "input": 0.35,
+    "output": 0.35,
     "channel_type": 31
   },
   {
@@ -142,8 +142,8 @@
   {
     "model": "stabilityai/stable-diffusion-xl-base-1.0",
     "type": "tokens",
-    "input": 1,
-    "output": 1,
+    "input": 0,
+    "output": 0,
     "channel_type": 1126
   },
   {
