@@ -301,6 +301,13 @@
     "channel_type": 1126
   },
   {
+    "model": "meta-llama/Llama-3.3-70B-Instruct-Turbo",
+    "type": "tokens",
+    "input": 0.44,
+    "output": 0.44,
+    "channel_type": 1126
+  },
+  {
     "model": "hunyuan-code",
     "type": "tokens",
     "input": 1,
