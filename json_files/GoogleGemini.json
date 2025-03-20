@@ -1,5 +1,12 @@
 [
   {
+    "model": "gemini-1.0-pro-vision-latest",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 25
+  },
+  {
     "model": "gemini-1.5-flash",
     "type": "tokens",
     "input": 0.0375,
@@ -119,6 +126,13 @@
     "channel_type": 25
   },
   {
+    "model": "gemini-2.0-flash-exp-image-generation",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 25
+  },
+  {
     "model": "gemini-2.0-flash-lite",
     "type": "tokens",
     "input": 1,
@@ -183,6 +197,20 @@
   },
   {
     "model": "gemini-exp-1206",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 25
+  },
+  {
+    "model": "gemini-pro-vision",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 25
+  },
+  {
+    "model": "gemma-3-27b-it",
     "type": "tokens",
     "input": 1,
     "output": 1,
