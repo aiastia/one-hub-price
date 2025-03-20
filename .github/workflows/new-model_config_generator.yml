@@ -1,4 +1,4 @@
-name: Run main.py
+name: Run new-model_config_generator.yml
 
 on:
   workflow_dispatch:
