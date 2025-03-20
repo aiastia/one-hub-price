@@ -28,6 +28,20 @@
     "channel_type": 45
   },
   {
+    "model": "deepseek-chat",
+    "type": "tokens",
+    "input": 0.0714,
+    "output": 0.1429,
+    "channel_type": 28
+  },
+  {
+    "model": "deepseek-chat",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 28
+  },
+  {
     "model": "deepseek-r1",
     "type": "tokens",
     "input": 1,
@@ -98,6 +112,20 @@
     "channel_type": 1122
   },
   {
+    "model": "deepseek-reasoner",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 28
+  },
+  {
+    "model": "deepseek-reasoner",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 28
+  },
+  {
     "model": "deepseek-v3",
     "type": "tokens",
     "input": 0.14,
@@ -138,6 +166,118 @@
     "input": 0.075,
     "output": 0.3,
     "channel_type": 1
+  },
+  {
+    "model": "kimi-latest",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 29
+  },
+  {
+    "model": "kimi-latest",
+    "type": "tokens",
+    "input": 1,
+    "output": 2,
+    "channel_type": 29
+  },
+  {
+    "model": "moonshot-v1-128k",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 29
+  },
+  {
+    "model": "moonshot-v1-128k",
+    "type": "tokens",
+    "input": 4.2857,
+    "output": 4.2857,
+    "channel_type": 29
+  },
+  {
+    "model": "moonshot-v1-128k-vision-preview",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 29
+  },
+  {
+    "model": "moonshot-v1-128k-vision-preview",
+    "type": "tokens",
+    "input": 10,
+    "output": 10,
+    "channel_type": 29
+  },
+  {
+    "model": "moonshot-v1-32k",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 29
+  },
+  {
+    "model": "moonshot-v1-32k",
+    "type": "tokens",
+    "input": 1.7143,
+    "output": 1.7143,
+    "channel_type": 29
+  },
+  {
+    "model": "moonshot-v1-32k-vision-preview",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 29
+  },
+  {
+    "model": "moonshot-v1-32k-vision-preview",
+    "type": "tokens",
+    "input": 2,
+    "output": 2,
+    "channel_type": 29
+  },
+  {
+    "model": "moonshot-v1-8k",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 29
+  },
+  {
+    "model": "moonshot-v1-8k",
+    "type": "tokens",
+    "input": 0.8572,
+    "output": 0.8572,
+    "channel_type": 29
+  },
+  {
+    "model": "moonshot-v1-8k-vision-preview",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 29
+  },
+  {
+    "model": "moonshot-v1-8k-vision-preview",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 29
+  },
+  {
+    "model": "moonshot-v1-auto",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 29
+  },
+  {
+    "model": "moonshot-v1-auto",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 29
   },
   {
     "model": "stabilityai/stable-diffusion-xl-base-1.0",

@@ -1,5 +1,12 @@
 [
   {
+    "model": "gemini-1.0-pro-vision-latest",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 25
+  },
+  {
     "model": "gemini-1.5-flash",
     "type": "tokens",
     "input": 0.0375,
@@ -119,6 +126,13 @@
     "channel_type": 25
   },
   {
+    "model": "gemini-2.0-flash-exp-image-generation",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 25
+  },
+  {
     "model": "gemini-2.0-flash-lite",
     "type": "tokens",
     "input": 1,
@@ -183,6 +197,20 @@
   },
   {
     "model": "gemini-exp-1206",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 25
+  },
+  {
+    "model": "gemini-pro-vision",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 25
+  },
+  {
+    "model": "gemma-3-27b-it",
     "type": "tokens",
     "input": 1,
     "output": 1,
@@ -420,80 +448,10 @@
     "channel_type": 40
   },
   {
-    "model": "kimi-latest",
-    "type": "tokens",
-    "input": 1,
-    "output": 2,
-    "channel_type": 29
-  },
-  {
-    "model": "moonshot-v1-128k",
-    "type": "tokens",
-    "input": 4.2857,
-    "output": 4.2857,
-    "channel_type": 29
-  },
-  {
-    "model": "moonshot-v1-128k-vision-preview",
-    "type": "tokens",
-    "input": 10,
-    "output": 10,
-    "channel_type": 29
-  },
-  {
-    "model": "moonshot-v1-32k",
-    "type": "tokens",
-    "input": 1.7143,
-    "output": 1.7143,
-    "channel_type": 29
-  },
-  {
-    "model": "moonshot-v1-32k-vision-preview",
-    "type": "tokens",
-    "input": 2,
-    "output": 2,
-    "channel_type": 29
-  },
-  {
-    "model": "moonshot-v1-8k",
-    "type": "tokens",
-    "input": 0.8572,
-    "output": 0.8572,
-    "channel_type": 29
-  },
-  {
-    "model": "moonshot-v1-8k-vision-preview",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 29
-  },
-  {
-    "model": "moonshot-v1-auto",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 29
-  },
-  {
     "model": "distil-whisper-large-v3-en",
     "type": "times",
     "input": 1,
     "output": 1,
-    "channel_type": 31
-  },
-  {
-    "model": "whisper-large-v3",
-    "type": "times",
-    "input": 1,
-    "output": 1,
-    "channel_type": 31
-  },
-  {
-    "model": "llama-3.1-8b-instant",
-    "type": "tokens",
-    "input": 0.025,
-    "output": 0.04,
     "channel_type": 31
   },
   {
@@ -504,10 +462,10 @@
     "channel_type": 31
   },
   {
-    "model": "llama-3.3-70b-specdec",
+    "model": "llama-3.1-8b-instant",
     "type": "tokens",
-    "input": 0.31,
-    "output": 0.5,
+    "input": 0.025,
+    "output": 0.04,
     "channel_type": 31
   },
   {
@@ -515,6 +473,76 @@
     "type": "tokens",
     "input": 0.09,
     "output": 0.09,
+    "channel_type": 31
+  },
+  {
+    "model": "llama-3.2-1b-preview",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 31
+  },
+  {
+    "model": "llama-3.2-3b-preview",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 31
+  },
+  {
+    "model": "llama-3.2-90b-vision-preview",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 31
+  },
+  {
+    "model": "llama-3.3-70b-specdec",
+    "type": "tokens",
+    "input": 0.31,
+    "output": 0.5,
+    "channel_type": 31
+  },
+  {
+    "model": "llama-3.3-70b-versatile",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 31
+  },
+  {
+    "model": "llama-guard-3-8b",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 31
+  },
+  {
+    "model": "llama3-70b-8192",
+    "type": "times",
+    "input": 0,
+    "output": 0,
+    "channel_type": 31
+  },
+  {
+    "model": "llama3-8b-8192",
+    "type": "times",
+    "input": 0,
+    "output": 0,
+    "channel_type": 31
+  },
+  {
+    "model": "mistral-saba-24b",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 31
+  },
+  {
+    "model": "mixtral-8x7b-32768",
+    "type": "times",
+    "input": 0,
+    "output": 0,
     "channel_type": 31
   },
   {
@@ -532,70 +560,14 @@
     "channel_type": 31
   },
   {
-    "model": "llama-3.2-90b-vision-preview",
-    "type": "tokens",
+    "model": "whisper-large-v3",
+    "type": "times",
     "input": 1,
     "output": 1,
     "channel_type": 31
   },
   {
     "model": "whisper-large-v3-turbo",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 31
-  },
-  {
-    "model": "llama-3.3-70b-versatile",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 31
-  },
-  {
-    "model": "mistral-saba-24b",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 31
-  },
-  {
-    "model": "llama-3.2-1b-preview",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 31
-  },
-  {
-    "model": "llama3-70b-8192",
-    "type": "times",
-    "input": 0,
-    "output": 0,
-    "channel_type": 31
-  },
-  {
-    "model": "mixtral-8x7b-32768",
-    "type": "times",
-    "input": 0,
-    "output": 0,
-    "channel_type": 31
-  },
-  {
-    "model": "llama-3.2-3b-preview",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 31
-  },
-  {
-    "model": "llama3-8b-8192",
-    "type": "times",
-    "input": 0,
-    "output": 0,
-    "channel_type": 31
-  },
-  {
-    "model": "llama-guard-3-8b",
     "type": "tokens",
     "input": 1,
     "output": 1,
@@ -614,20 +586,6 @@
     "input": 1.25,
     "output": 5,
     "channel_type": 1125
-  },
-  {
-    "model": "deepseek-chat",
-    "type": "tokens",
-    "input": 0.0714,
-    "output": 0.1429,
-    "channel_type": 28
-  },
-  {
-    "model": "deepseek-reasoner",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 28
   },
   {
     "model": "SparkDesk-v1.1",
@@ -816,6 +774,13 @@
     "type": "tokens",
     "input": 4,
     "output": 12,
+    "channel_type": 14
+  },
+  {
+    "model": "claude-3-7-sonnet-20250219",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
     "channel_type": 14
   },
   {
@@ -2394,6 +2359,13 @@
     "channel_type": 2000
   },
   {
+    "model": "deepseek-chat",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 2000
+  },
+  {
     "model": "deepseek-r1",
     "type": "tokens",
     "input": 1,
@@ -2422,6 +2394,13 @@
     "channel_type": 2000
   },
   {
+    "model": "deepseek-reasoner",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 2000
+  },
+  {
     "model": "deepseek-v3",
     "type": "tokens",
     "input": 1,
@@ -2440,6 +2419,62 @@
     "type": "tokens",
     "input": 0.075,
     "output": 0.3,
+    "channel_type": 2000
+  },
+  {
+    "model": "kimi-latest",
+    "type": "tokens",
+    "input": 1,
+    "output": 2,
+    "channel_type": 2000
+  },
+  {
+    "model": "moonshot-v1-128k",
+    "type": "tokens",
+    "input": 4.2857,
+    "output": 4.2857,
+    "channel_type": 2000
+  },
+  {
+    "model": "moonshot-v1-128k-vision-preview",
+    "type": "tokens",
+    "input": 10,
+    "output": 10,
+    "channel_type": 2000
+  },
+  {
+    "model": "moonshot-v1-32k",
+    "type": "tokens",
+    "input": 1.7143,
+    "output": 1.7143,
+    "channel_type": 2000
+  },
+  {
+    "model": "moonshot-v1-32k-vision-preview",
+    "type": "tokens",
+    "input": 2,
+    "output": 2,
+    "channel_type": 2000
+  },
+  {
+    "model": "moonshot-v1-8k",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 2000
+  },
+  {
+    "model": "moonshot-v1-8k-vision-preview",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 2000
+  },
+  {
+    "model": "moonshot-v1-auto",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
     "channel_type": 2000
   },
   {
