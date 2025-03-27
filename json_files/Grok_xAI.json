@@ -8,7 +8,7 @@
   },
   {
     "model": "grok-2-image-1212",
-    "type": "tokens",
+    "type": "times",
     "input": 1,
     "output": 1,
     "channel_type": 1120
