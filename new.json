@@ -3073,6 +3073,13 @@
     "channel_type": 1120
   },
   {
+    "model": "grok-2-image-1212",
+    "type": "times",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1120
+  },
+  {
     "model": "grok-2-vision-1212",
     "type": "tokens",
     "input": 1,
