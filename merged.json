@@ -658,6 +658,13 @@
     "channel_type": 1121
   },
   {
+    "model": "step-1o-audio",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1121
+  },
+  {
     "model": "step-1o-turbo-vision",
     "type": "tokens",
     "input": 0.35,
@@ -725,6 +732,13 @@
     "type": "times",
     "input": 1,
     "output": 2,
+    "channel_type": 1121
+  },
+  {
+    "model": "step-r1-v-mini",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
     "channel_type": 1121
   },
   {
