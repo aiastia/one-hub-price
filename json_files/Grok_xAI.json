@@ -21,6 +21,34 @@
     "channel_type": 1120
   },
   {
+    "model": "grok-3-beta",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1120
+  },
+  {
+    "model": "grok-3-fast-beta",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1120
+  },
+  {
+    "model": "grok-3-mini-beta",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1120
+  },
+  {
+    "model": "grok-3-mini-fast-beta",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1120
+  },
+  {
     "model": "grok-beta",
     "type": "tokens",
     "input": 2.5,

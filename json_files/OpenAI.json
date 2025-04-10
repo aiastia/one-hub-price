@@ -238,6 +238,34 @@
     "channel_type": 1
   },
   {
+    "model": "gpt-4o-mini-search-preview",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1
+  },
+  {
+    "model": "gpt-4o-mini-search-preview-2025-03-11",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1
+  },
+  {
+    "model": "gpt-4o-mini-transcribe",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1
+  },
+  {
+    "model": "gpt-4o-mini-tts",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1
+  },
+  {
     "model": "gpt-4o-realtime-preview",
     "type": "tokens",
     "input": 2.5,
@@ -256,6 +284,27 @@
     "type": "tokens",
     "input": 2.5,
     "output": 10,
+    "channel_type": 1
+  },
+  {
+    "model": "gpt-4o-search-preview",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1
+  },
+  {
+    "model": "gpt-4o-search-preview-2025-03-11",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1
+  },
+  {
+    "model": "gpt-4o-transcribe",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
     "channel_type": 1
   },
   {
