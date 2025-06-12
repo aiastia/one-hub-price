@@ -4,17 +4,10 @@
     "type": "tokens",
     "input": 1,
     "output": 1,
-    "channel_type": 45
-  },
-  {
-    "model": "deepseek-ai/DeepSeek-R1-Distill-Llama-70B",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
     "channel_type": 1126
   },
   {
-    "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-14B",
+    "model": "deepseek-ai/DeepSeek-R1-Distill-Llama-70B",
     "type": "tokens",
     "input": 1,
     "output": 1,
@@ -26,6 +19,13 @@
     "input": 0.8,
     "output": 0.8,
     "channel_type": 1126
+  },
+  {
+    "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-14B",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 45
   },
   {
     "model": "deepseek-chat",
@@ -46,14 +46,14 @@
     "type": "tokens",
     "input": 1,
     "output": 1,
-    "channel_type": 1122
+    "channel_type": 1124
   },
   {
     "model": "deepseek-r1",
     "type": "tokens",
     "input": 1,
     "output": 1,
-    "channel_type": 1124
+    "channel_type": 1122
   },
   {
     "model": "deepseek-r1",
@@ -79,16 +79,16 @@
   {
     "model": "deepseek-r1-distill-qwen-32b",
     "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 1122
+    "input": 0.35,
+    "output": 0.35,
+    "channel_type": 31
   },
   {
     "model": "deepseek-r1-distill-qwen-32b",
     "type": "tokens",
-    "input": 0.35,
-    "output": 0.35,
-    "channel_type": 31
+    "input": 1,
+    "output": 1,
+    "channel_type": 1122
   },
   {
     "model": "deepseek-r1-distill-qwen-32b",
@@ -171,11 +171,18 @@
     "model": "kimi-latest",
     "type": "tokens",
     "input": 1,
-    "output": 2,
+    "output": 1,
     "channel_type": 29
   },
   {
     "model": "kimi-latest",
+    "type": "tokens",
+    "input": 1,
+    "output": 2,
+    "channel_type": 29
+  },
+  {
+    "model": "moonshot-v1-128k",
     "type": "tokens",
     "input": 1,
     "output": 1,
@@ -189,7 +196,7 @@
     "channel_type": 29
   },
   {
-    "model": "moonshot-v1-128k",
+    "model": "moonshot-v1-128k-vision-preview",
     "type": "tokens",
     "input": 1,
     "output": 1,
@@ -203,7 +210,7 @@
     "channel_type": 29
   },
   {
-    "model": "moonshot-v1-128k-vision-preview",
+    "model": "moonshot-v1-32k",
     "type": "tokens",
     "input": 1,
     "output": 1,
@@ -217,7 +224,7 @@
     "channel_type": 29
   },
   {
-    "model": "moonshot-v1-32k",
+    "model": "moonshot-v1-32k-vision-preview",
     "type": "tokens",
     "input": 1,
     "output": 1,
@@ -231,7 +238,7 @@
     "channel_type": 29
   },
   {
-    "model": "moonshot-v1-32k-vision-preview",
+    "model": "moonshot-v1-8k",
     "type": "tokens",
     "input": 1,
     "output": 1,
@@ -245,13 +252,6 @@
     "channel_type": 29
   },
   {
-    "model": "moonshot-v1-8k",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 29
-  },
-  {
     "model": "moonshot-v1-8k-vision-preview",
     "type": "tokens",
     "input": 1,
@@ -278,13 +278,6 @@
     "input": 1,
     "output": 1,
     "channel_type": 29
-  },
-  {
-    "model": "stabilityai/stable-diffusion-xl-base-1.0",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 45
   },
   {
     "model": "stabilityai/stable-diffusion-xl-base-1.0",
@@ -292,6 +285,13 @@
     "input": 0,
     "output": 0,
     "channel_type": 1126
+  },
+  {
+    "model": "stabilityai/stable-diffusion-xl-base-1.0",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 45
   },
   {
     "model": "text-embedding-3-large",
