@@ -44,13 +44,6 @@
   {
     "model": "deepseek-r1",
     "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 1124
-  },
-  {
-    "model": "deepseek-r1",
-    "type": "tokens",
     "input": 0.28,
     "output": 1.14,
     "channel_type": 17
@@ -61,6 +54,13 @@
     "input": 1,
     "output": 1,
     "channel_type": 1122
+  },
+  {
+    "model": "deepseek-r1",
+    "type": "tokens",
+    "input": 1,
+    "output": 1,
+    "channel_type": 1124
   },
   {
     "model": "deepseek-r1-distill-llama-70b",
@@ -86,16 +86,16 @@
   {
     "model": "deepseek-r1-distill-qwen-32b",
     "type": "tokens",
-    "input": 1,
-    "output": 1,
-    "channel_type": 1122
+    "input": 0.35,
+    "output": 0.35,
+    "channel_type": 31
   },
   {
     "model": "deepseek-r1-distill-qwen-32b",
     "type": "tokens",
-    "input": 0.35,
-    "output": 0.35,
-    "channel_type": 31
+    "input": 1,
+    "output": 1,
+    "channel_type": 1122
   },
   {
     "model": "deepseek-r1-distill-qwen-7b",
@@ -144,13 +144,20 @@
     "type": "tokens",
     "input": 2.5,
     "output": 7.5,
-    "channel_type": 1
+    "channel_type": 1125
   },
   {
     "model": "gpt-4o",
     "type": "tokens",
     "input": 2.5,
     "output": 7.5,
+    "channel_type": 1
+  },
+  {
+    "model": "gpt-4o-mini",
+    "type": "tokens",
+    "input": 0.075,
+    "output": 0.3,
     "channel_type": 1125
   },
   {
@@ -161,11 +168,11 @@
     "channel_type": 1
   },
   {
-    "model": "gpt-4o-mini",
+    "model": "kimi-latest",
     "type": "tokens",
-    "input": 0.075,
-    "output": 0.3,
-    "channel_type": 1125
+    "input": 1,
+    "output": 1,
+    "channel_type": 29
   },
   {
     "model": "kimi-latest",
@@ -175,7 +182,7 @@
     "channel_type": 29
   },
   {
-    "model": "kimi-latest",
+    "model": "moonshot-v1-128k",
     "type": "tokens",
     "input": 1,
     "output": 1,
@@ -189,7 +196,7 @@
     "channel_type": 29
   },
   {
-    "model": "moonshot-v1-128k",
+    "model": "moonshot-v1-128k-vision-preview",
     "type": "tokens",
     "input": 1,
     "output": 1,
@@ -203,7 +210,7 @@
     "channel_type": 29
   },
   {
-    "model": "moonshot-v1-128k-vision-preview",
+    "model": "moonshot-v1-32k",
     "type": "tokens",
     "input": 1,
     "output": 1,
@@ -217,7 +224,7 @@
     "channel_type": 29
   },
   {
-    "model": "moonshot-v1-32k",
+    "model": "moonshot-v1-32k-vision-preview",
     "type": "tokens",
     "input": 1,
     "output": 1,
@@ -231,7 +238,7 @@
     "channel_type": 29
   },
   {
-    "model": "moonshot-v1-32k-vision-preview",
+    "model": "moonshot-v1-8k",
     "type": "tokens",
     "input": 1,
     "output": 1,
@@ -242,13 +249,6 @@
     "type": "tokens",
     "input": 0.8572,
     "output": 0.8572,
-    "channel_type": 29
-  },
-  {
-    "model": "moonshot-v1-8k",
-    "type": "tokens",
-    "input": 1,
-    "output": 1,
     "channel_type": 29
   },
   {
@@ -298,20 +298,13 @@
     "type": "tokens",
     "input": 0.065,
     "output": 0.065,
-    "channel_type": 1
+    "channel_type": 1125
   },
   {
     "model": "text-embedding-3-large",
     "type": "tokens",
     "input": 0.065,
     "output": 0.065,
-    "channel_type": 1125
-  },
-  {
-    "model": "text-embedding-3-small",
-    "type": "tokens",
-    "input": 0.01,
-    "output": 0.01,
     "channel_type": 1
   },
   {
@@ -320,5 +313,12 @@
     "input": 0.01,
     "output": 0.01,
     "channel_type": 1125
+  },
+  {
+    "model": "text-embedding-3-small",
+    "type": "tokens",
+    "input": 0.01,
+    "output": 0.01,
+    "channel_type": 1
   }
 ]
